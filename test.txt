@@ -8,3 +8,5 @@ Second line is added for the demo of reset
 
 
 Trying to stash the file
+
+Hello this is from master
